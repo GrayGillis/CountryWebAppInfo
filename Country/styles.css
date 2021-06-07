@@ -1,0 +1,22 @@
+body{
+    background: lightgreen;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.countries a:hover{
+    color: red;
+}
+
+.countries{
+    margin: auto;
+    padding: 0%;
+}
